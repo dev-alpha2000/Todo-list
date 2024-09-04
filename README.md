@@ -9,3 +9,22 @@ This project is a simple and responsive To-Do application built with React. It a
 2-Edit Tasks: Modify existing tasks as needed.
 3-Delete Tasks: Remove tasks once they are completed or no longer needed.
 4-Mark as Completed: Easily mark tasks as done.
+
+## Installation
+To run this project locally, follow these steps:
+
+1- **Clone the repository**:
+
+ **code**:-
+git clone https://github.com/yourusername/todo-app.git
+cd todo-app
+
+2- **Install the dependencies**:
+**code** :-
+npm install
+
+3-**Start the development server:**
+**code**:-
+npm start
+
+The app will be available at http://localhost:3000.
